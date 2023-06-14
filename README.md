@@ -37,7 +37,9 @@
 
 
 ## Output
+![Screenshot 2023-06-14 181054](https://github.com/BaskaranV15/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118703522/e15f154f-9f55-4c01-993f-b0aa1fd8d1e3)
 
+![Screenshot 2023-06-14 181633](https://github.com/BaskaranV15/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118703522/f96e2667-3cd9-46e4-8190-44d393eb57f8)
 
 
 ### Name:V.BASKARAN
